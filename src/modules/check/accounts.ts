@@ -90,7 +90,7 @@ function accountSelect(
                   } ETH</option>`
               )}
             </select>
-            <button style="display: flex; align-items: center; text-align: center; height: 1.5rem; background: transparent; margin: 0 0.25rem; padding: 0 0.5rem; border-radius: 40px; cursor: pointer; color: inherit; border-color: inherit; border-width: 1px; border-style: solid;" onclick="window.loadMoreAccounts()">Load More</button>
+            <button style="display: flex; align-items: center; text-align: center; background: transparent; margin: 0 0.25rem; padding: 0 0.5rem; border-radius: 40px; cursor: pointer; color: inherit; border-color: inherit; border-width: 1px; border-style: solid;" onclick="window.loadMoreAccounts()">Load More</button>
           </div>
         `,
         button: {
